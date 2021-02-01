@@ -3,7 +3,7 @@ Handwritten Digit Recognition using the MNSIT dataset using keras, tensorflow, P
 
 ### Dependecies
 
-'''tensorflow, keras, numpy, matplotlib and PIL''' for the development of the neuronal network
+'tensorflow, keras, numpy, matplotlib and PIL' for the development of the neuronal network
 '''_tkinter, PIL, numpy and keras_ for the GUI'''
 
 ### Contents
