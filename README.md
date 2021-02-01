@@ -3,8 +3,8 @@ Handwritten Digit Recognition using the MNSIT dataset using keras, tensorflow, P
 
 ### Dependecies
 
-'tensorflow, keras, numpy, matplotlib and PIL' for the development of the neuronal network
-'''_tkinter, PIL, numpy and keras_ for the GUI'''
+`tensorflow`, keras, numpy, matplotlib and PIL' for the development of the neuronal network
+_tkinter, PIL, numpy and keras_ for the GUI
 
 ### Contents
 _MNIST.h5_ The output of the trained model
